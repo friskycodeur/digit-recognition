@@ -2,8 +2,6 @@
 
 <div align='center'><font size="6" color="#000000"><b> Image Recognition using CNN (explained !) </b></font></div>
 <hr>
-<div align='center'><font size="5" color="#000000">Introduction</font></div>
-<hr>
 
 When I started doing this problem my main goal was getting experience and to be able to explain whatver I learnt on the way. I'm still learning and trying to improve my skills, so every feedback and advices are welcome !
 <br><br>
